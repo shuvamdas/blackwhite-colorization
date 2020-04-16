@@ -1,0 +1,2 @@
+ python bw2color_image.py --prototxt model/colorization_deploy_v2.prototxt --model model/colorization_release_v2.caffemodel --points model/pts_in_hull.npy --image images/robin_williams.jpg
+
